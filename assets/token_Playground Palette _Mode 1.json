@@ -1,0 +1,46 @@
+{
+  "Black": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Blue": {
+    "$type": "color",
+    "$value": "#0d99ff"
+  },
+  "Brown": {
+    "$type": "color",
+    "$value": "#877a7a"
+  },
+  "Dark Blue": {
+    "$type": "color",
+    "$value": "#4d49fc"
+  },
+  "Light Blue": {
+    "$type": "color",
+    "$value": "#00b6ff"
+  },
+  "Light Gray": {
+    "$type": "color",
+    "$value": "#f5f5f5"
+  },
+  "Maroon": {
+    "$type": "color",
+    "$value": "#721c1c"
+  },
+  "Orange": {
+    "$type": "color",
+    "$value": "#e36c3b"
+  },
+  "Pale Green": {
+    "$type": "color",
+    "$value": "#f3ffe3"
+  },
+  "Purple": {
+    "$type": "color",
+    "$value": "#cd6ddd"
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}
