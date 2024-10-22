@@ -1,0 +1,2418 @@
+{
+  "color": {
+    "caution": {
+      "active": {
+        "$type": "color",
+        "$value": "#cc9f00"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#ffc700"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#fff2cf"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ffedad"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "#ffe485"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#ffd233"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "#cc9f00"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#ffc700"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ffd233"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "disabled": {
+      "base": {
+        "$type": "color",
+        "$value": "#ebe9ec"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ebe9ec"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#e1dfe2"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#e1dfe2"
+      }
+    },
+    "negative": {
+      "active": {
+        "$type": "color",
+        "$value": "#d65451"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#e46a57"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#8b3937"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "#ffc2b2"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#ffeeea"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ffd9ce"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#e46a57"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "#d65451"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#e46a57"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#e46a57"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#e46a57"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "on caution": {
+      "base": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#3d3000"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "on disabled": {
+      "base": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0.1600)"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1600)"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0.2400)"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.2400)"
+      }
+    },
+    "on negative": {
+      "base": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#8b3937"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "on positive": {
+      "base": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#2e4d1b"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "on primary": {
+      "base": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "on secondary": {
+      "base": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "on supporting": {
+      "blue": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "gray": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "shade": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "tint": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "green": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "neutrals": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "shade": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "tint": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "orange": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "primary": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "purple": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "red": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "yellow": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      }
+    },
+    "on surface": {
+      "base": {
+        "$type": "color",
+        "$value": "#0f0c13"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "high": {
+          "divider": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "divider inverse": {
+            "$type": "color",
+            "$value": "#4f4657"
+          }
+        },
+        "highest": {
+          "divider": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "divider inverse": {
+            "$type": "color",
+            "$value": "#594f60"
+          },
+          "subtle": {
+            "$type": "color",
+            "$value": "#685f71"
+          }
+        },
+        "low": {
+          "divider": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "divider inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          }
+        },
+        "lowest": {
+          "divider": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "divider inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          }
+        }
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "#ebe9ec"
+      },
+      "divider inverse": {
+        "$type": "color",
+        "$value": "#2a1f34"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "#685f71"
+      },
+      "subtle inverse": {
+        "$type": "color",
+        "$value": "#bebbc1"
+      }
+    },
+    "on tertiary": {
+      "base": {
+        "$type": "color",
+        "$value": "{color.on utility.base}"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "{color.on utility.base inverse}"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "{color.on utility.container}"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "{color.on utility.container inverse}"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "{color.on utility.outline}"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "{color.on utility.outline inverse}"
+      }
+    },
+    "on utility": {
+      "base": {
+        "$type": "color",
+        "$value": "#f4f4ff"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#202b36"
+      },
+      "container": {
+        "$type": "color",
+        "$value": "#3a45a9"
+      },
+      "container inverse": {
+        "$type": "color",
+        "$value": "#d9edff"
+      },
+      "container selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container selected inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "#4254d2"
+      },
+      "outline inverse": {
+        "$type": "color",
+        "$value": "#d4eaff"
+      }
+    },
+    "positive": {
+      "active": {
+        "$type": "color",
+        "$value": "#55a128"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#5db22a"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "#b5db98"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#ebf5e3"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#d0e9bd"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#7ac14e"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "#55a128"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#5db22a"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#7ac14e"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "primary": {
+      "active": {
+        "$type": "color",
+        "$value": "#8a3cff"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#6f00ff"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "#cda5ff"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#1c0d30"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#f6eeff"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#291248"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#e8d4ff"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#3b1574"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#f6eeff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#3b1574"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#ae74ff"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#3b1574"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#9d59ff"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#9d59ff"
+        }
+      }
+    },
+    "secondary": {
+      "active": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0.1600)"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.0800)"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0.0800)"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1200)"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.0800)"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.1200)"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.0400)"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.1200)"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.0800)"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.0800)"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.1600)"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.1600)"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0.1200)"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.2400)"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.4800)"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.1600)"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.2800)"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.2400)"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.2400)"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.2800)"
+        }
+      }
+    },
+    "social": {
+      "apple": {
+        "active": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        }
+      },
+      "entain": {
+        "active": {
+          "$type": "color",
+          "$value": "#8f00bf"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#bf00ff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#cf40ff"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#8f00bf"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#bf00ff"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#cf40ff"
+          }
+        }
+      },
+      "facebook": {
+        "active": {
+          "$type": "color",
+          "$value": "#314d86"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#4267b2"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#718dc5"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#314d86"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#4267b2"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#718dc5"
+          }
+        }
+      },
+      "google": {
+        "active": {
+          "$type": "color",
+          "$value": "#4a4054"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#595063"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#4a4054"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#0f0c13"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#595063"
+          }
+        }
+      },
+      "mlife": {
+        "active": {
+          "$type": "color",
+          "$value": "#73520d"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#996d12"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#b3924d"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#73520d"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#996d12"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#b3924d"
+          }
+        }
+      },
+      "on apple": {
+        "base": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "on entain": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "on facebook": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "on google": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "on mlife": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outine": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "on paypal": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "on yahoo": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "outline": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "paypal": {
+        "active": {
+          "$type": "color",
+          "$value": "#00548b"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#0070ba"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#4094cb"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#00548b"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#0070ba"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#4094cb"
+          }
+        }
+      },
+      "yahoo": {
+        "active": {
+          "$type": "color",
+          "$value": "#48019e"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#6001d2"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#8841dd"
+        },
+        "outline": {
+          "active": {
+            "$type": "color",
+            "$value": "#48019e"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#6001d2"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#8841dd"
+          }
+        }
+      }
+    },
+    "supporting": {
+      "blue": {
+        "base": {
+          "$type": "color",
+          "$value": "#475eec"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#3a45a9"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#deebfc"
+        }
+      },
+      "brand": {
+        "base": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#4d14a2"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#e8d4ff"
+        }
+      },
+      "gray": {
+        "base": {
+          "$type": "color",
+          "$value": "#c7c4ca"
+        },
+        "shade": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#685f71"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#ebe9ec"
+        },
+        "tint": {
+          "$type": "color",
+          "$value": "#f3f4f5"
+        }
+      },
+      "green": {
+        "base": {
+          "$type": "color",
+          "$value": "#5db22a"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#263d17"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#d0e9bd"
+        }
+      },
+      "neutrals": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "shade": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "tint": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "orange": {
+        "base": {
+          "$type": "color",
+          "$value": "#de7713"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#ad5d0f"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#f4b980"
+        }
+      },
+      "purple": {
+        "base": {
+          "$type": "color",
+          "$value": "#8c74cb"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#5b3ab6"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#cabfe7"
+        }
+      },
+      "red": {
+        "base": {
+          "$type": "color",
+          "$value": "#e46a57"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#d65451"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#ffd9ce"
+        }
+      },
+      "yellow": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffc700"
+        },
+        "strong": {
+          "$type": "color",
+          "$value": "#cc9f00"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#ffedad"
+        }
+      }
+    },
+    "surface": {
+      "active": {
+        "$type": "color",
+        "$value": "#e1dfe2"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "#1d1026"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#180b22"
+      },
+      "container": {
+        "high": {
+          "active": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#2a1f34"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#f3f4f5"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#4f4657"
+          }
+        },
+        "highest": {
+          "active": {
+            "$type": "color",
+            "$value": "#c7c4ca"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#4f4657"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#594f60"
+          }
+        },
+        "low": {
+          "active": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#21152b"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#f3f4f5"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#2a1f34"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          }
+        },
+        "lowest": {
+          "active": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#1d1026"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#21152b"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#f3f4f5"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#2a1f34"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#f3f4f5"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "#21152b"
+      },
+      "outline": {
+        "high": {
+          "active": {
+            "$type": "color",
+            "$value": "#c7c4ca"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#4f4657"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#594f60"
+          }
+        },
+        "highest": {
+          "active": {
+            "$type": "color",
+            "$value": "#ada9b2"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#4f4657"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#594f60"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#6b6372"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#c7c4ca"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#87808c"
+          }
+        },
+        "low": {
+          "active": {
+            "$type": "color",
+            "$value": "#c7c4ca"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#2a1f34"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#f3f4f5"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#594f60"
+          }
+        },
+        "lowest": {
+          "active": {
+            "$type": "color",
+            "$value": "#d6d4d9"
+          },
+          "active inverse": {
+            "$type": "color",
+            "$value": "#21152b"
+          },
+          "base": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "base inverse": {
+            "$type": "color",
+            "$value": "#2a1f34"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ebe9ec"
+          },
+          "hover inverse": {
+            "$type": "color",
+            "$value": "#34283d"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#e1dfe2"
+          },
+          "selected inverse": {
+            "$type": "color",
+            "$value": "#3d3245"
+          }
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "#ebe9ec"
+      },
+      "selected inverse": {
+        "$type": "color",
+        "$value": "#2a1f34"
+      }
+    },
+    "tertiary": {
+      "active": {
+        "$type": "color",
+        "$value": "{color.utility.active}"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "{color.utility.active inverse}"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "{color.utility.base}"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "{color.utility.base inverse}"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.utility.container.active}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.utility.container.active inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "{color.utility.container.base}"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "{color.utility.container.base inverse}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.utility.container.hover}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.utility.container.hover inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{color.utility.hover}"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "{color.utility.hover inverse}"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.utility.outline.active}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.utility.outline.active inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "{color.utility.outline.base}"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "{color.utility.outline.base inverse}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.utility.outline.hover}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.utility.outline.hover inverse}"
+        }
+      }
+    },
+    "transparent": {
+      "base": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.0000)"
+      }
+    },
+    "utility": {
+      "active": {
+        "$type": "color",
+        "$value": "#4254d2"
+      },
+      "active inverse": {
+        "$type": "color",
+        "$value": "#6aa4da"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#475eec"
+      },
+      "base inverse": {
+        "$type": "color",
+        "$value": "#79bfff"
+      },
+      "container": {
+        "active": {
+          "$type": "color",
+          "$value": "#bcd7f8"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#0f171f"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#f4f4ff"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#202b36"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#deebfc"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#33475c"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#4781f5"
+      },
+      "hover inverse": {
+        "$type": "color",
+        "$value": "#94ccff"
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "#4254d2"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "#6aa4da"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#475eec"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "#79bfff"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#4781f5"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "#94ccff"
+        }
+      }
+    }
+  },
+  "color l2": {
+    "bet bar": {
+      "background": {
+        "base": {
+          "$type": "color",
+          "$value": "#34283d"
+        }
+      },
+      "on background": {
+        "base": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#bebbc1"
+        }
+      }
+    },
+    "controls": {
+      "active": {
+        "$type": "color",
+        "$value": "{color.tertiary.active}"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "{color.tertiary.base}"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{color.tertiary.hover}"
+      },
+      "knob": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "on controls": {
+        "base": {
+          "$type": "color",
+          "$value": "#f4f4ff"
+        },
+        "container": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      },
+      "outline": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.tertiary.outline.active}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "{color.tertiary.outline.base}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.tertiary.outline.hover}"
+        }
+      }
+    },
+    "navigation": {
+      "background": {
+        "base": {
+          "$type": "color",
+          "$value": "{color.surface.base inverse}"
+        }
+      },
+      "on background": {
+        "base": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        },
+        "divider": {
+          "$type": "color",
+          "$value": "{color.on surface.divider inverse}"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#bebbc1"
+        }
+      }
+    },
+    "odds button": {
+      "background": {
+        "active": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#f3f4f5"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ebe9ec"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#9d59ff"
+        }
+      },
+      "border": {
+        "active": {
+          "$type": "color",
+          "$value": "#8a3cff"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#ebe9ec"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#ebe9ec"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#9d59ff"
+        }
+      },
+      "on background": {
+        "active": {
+          "$type": "color",
+          "$value": "#4a4054"
+        },
+        "active subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "#4a4054"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#4a4054"
+        },
+        "hover subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "#4a4054"
+        },
+        "selected subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#0f0c13"
+        }
+      }
+    },
+    "pill": {
+      "background": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.primary.container.active}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.primary.container.active inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.0000)"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.0000)"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.primary.container.hover}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.primary.container.hover inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{color.primary.container.selected}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.primary.container.selected inverse}"
+        }
+      },
+      "border": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.active}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.active inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.base}"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.base inverse}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.hover}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.hover inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{color.secondary.outline.active}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.primary.outline.base inverse}"
+        }
+      },
+      "on background": {
+        "base": {
+          "$type": "color",
+          "$value": "{color.on primary.outline}"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "{color.on primary.outline inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{color.on primary.outline}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.on primary.outline inverse}"
+        }
+      }
+    },
+    "tabs": {
+      "background": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.primary.container.active}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.primary.container.active inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.0000)"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.0000)"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.primary.container.hover}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.primary.container.hover inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{color.surface.container.lowest.selected}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.surface.container.lowest.selected inverse}"
+        }
+      },
+      "indicator": {
+        "selected": {
+          "$type": "color",
+          "$value": "{color.on surface.base}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        }
+      },
+      "on background": {
+        "active": {
+          "$type": "color",
+          "$value": "{color.on surface.base}"
+        },
+        "active inverse": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        },
+        "base": {
+          "$type": "color",
+          "$value": "{color.on surface.base}"
+        },
+        "base inverse": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{color.on surface.base}"
+        },
+        "hover inverse": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        },
+        "selected": {
+          "$type": "color",
+          "$value": "{color.on surface.base}"
+        },
+        "selected inverse": {
+          "$type": "color",
+          "$value": "{color.on surface.base inverse}"
+        }
+      }
+    }
+  },
+  "radius": {
+    "max": {
+      "$type": "number",
+      "$value": 1000
+    },
+    "semi rounded md": {
+      "$type": "number",
+      "$value": 8
+    },
+    "semi rounded sm": {
+      "$type": "number",
+      "$value": 4
+    },
+    "semi rounded xs": {
+      "$type": "number",
+      "$value": 2
+    },
+    "squared": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "radius l2": {
+    "betbar": {
+      "$type": "number",
+      "$value": "{radius.semi rounded md}"
+    },
+    "button": {
+      "large": {
+        "$type": "number",
+        "$value": "{radius.max}"
+      },
+      "medium": {
+        "$type": "number",
+        "$value": "{radius.max}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{radius.max}"
+      }
+    },
+    "odds button": {
+      "$type": "number",
+      "$value": "{radius.semi rounded sm}"
+    },
+    "pill": {
+      "$type": "number",
+      "$value": "{radius.max}"
+    },
+    "search": {
+      "$type": "number",
+      "$value": "{radius.max}"
+    },
+    "segment item": {
+      "$type": "number",
+      "$value": "{radius.max}"
+    },
+    "segmented control": {
+      "$type": "number",
+      "$value": "{radius.max}"
+    }
+  },
+  "size": {
+    "icon": {
+      "large": {
+        "$type": "number",
+        "$value": 20
+      },
+      "medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "small": {
+        "$type": "number",
+        "$value": 12
+      },
+      "xlarge": {
+        "$type": "number",
+        "$value": 24
+      },
+      "xsmall": {
+        "$type": "number",
+        "$value": 8
+      }
+    },
+    "x1": {
+      "$type": "number",
+      "$value": 4
+    },
+    "x10": {
+      "$type": "number",
+      "$value": 40
+    },
+    "x11": {
+      "$type": "number",
+      "$value": 44
+    },
+    "x12": {
+      "$type": "number",
+      "$value": 48
+    },
+    "x13": {
+      "$type": "number",
+      "$value": 52
+    },
+    "x14": {
+      "$type": "number",
+      "$value": 56
+    },
+    "x16": {
+      "$type": "number",
+      "$value": 64
+    },
+    "x18": {
+      "$type": "number",
+      "$value": 72
+    },
+    "x2": {
+      "$type": "number",
+      "$value": 8
+    },
+    "x20": {
+      "$type": "number",
+      "$value": 80
+    },
+    "x22": {
+      "$type": "number",
+      "$value": 88
+    },
+    "x24": {
+      "$type": "number",
+      "$value": 96
+    },
+    "x25": {
+      "$type": "number",
+      "$value": 100
+    },
+    "x3": {
+      "$type": "number",
+      "$value": 12
+    },
+    "x4": {
+      "$type": "number",
+      "$value": 16
+    },
+    "x6": {
+      "$type": "number",
+      "$value": 24
+    },
+    "x8": {
+      "$type": "number",
+      "$value": 32
+    },
+    "x9": {
+      "$type": "number",
+      "$value": 36
+    },
+    "xhalf": {
+      "$type": "number",
+      "$value": 2
+    },
+    "xquarter": {
+      "$type": "number",
+      "$value": 1
+    }
+  },
+  "spacing": {
+    "container": {
+      "padding 2xl": {
+        "$type": "number",
+        "$value": 16
+      },
+      "padding 3xl": {
+        "$type": "number",
+        "$value": 24
+      },
+      "padding 4xl": {
+        "$type": "number",
+        "$value": 32
+      },
+      "padding 5xl": {
+        "$type": "number",
+        "$value": 40
+      },
+      "padding lg": {
+        "$type": "number",
+        "$value": 8
+      },
+      "padding md": {
+        "$type": "number",
+        "$value": 6
+      },
+      "padding none": {
+        "$type": "number",
+        "$value": 0
+      },
+      "padding sm": {
+        "$type": "number",
+        "$value": 4
+      },
+      "padding xl": {
+        "$type": "number",
+        "$value": 12
+      },
+      "padding xs": {
+        "$type": "number",
+        "$value": 2
+      }
+    },
+    "inline": {
+      "inline none": {
+        "$type": "number",
+        "$value": 0
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 12
+      },
+      "md": {
+        "$type": "number",
+        "$value": 8
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 4
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 16
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 2
+      }
+    },
+    "stack": {
+      "2xl": {
+        "$type": "number",
+        "$value": 20
+      },
+      "3xl": {
+        "$type": "number",
+        "$value": 24
+      },
+      "4xl": {
+        "$type": "number",
+        "$value": 28
+      },
+      "5xl": {
+        "$type": "number",
+        "$value": 32
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 12
+      },
+      "md": {
+        "$type": "number",
+        "$value": 8
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 4
+      },
+      "stack none": {
+        "$type": "number",
+        "$value": 0
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 16
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 2
+      }
+    }
+  }
+}
