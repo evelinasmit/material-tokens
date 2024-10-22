@@ -1,0 +1,86 @@
+{
+  "Black": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Brown": {
+    "$type": "color",
+    "$value": "#5f3911"
+  },
+  "Color": {
+    "Brand": {
+      "Black": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "Brown": {
+        "$type": "color",
+        "$value": "#5f3911"
+      },
+      "Cream": {
+        "$type": "color",
+        "$value": "#fffeed"
+      },
+      "Dark Brown": {
+        "$type": "color",
+        "$value": "#040200"
+      },
+      "Green": {
+        "$type": "color",
+        "$value": "#24cb71"
+      },
+      "Orange": {
+        "$type": "color",
+        "$value": "#ff7237"
+      },
+      "Red": {
+        "$type": "color",
+        "$value": "#ff3737"
+      },
+      "Warm Gray": {
+        "$type": "color",
+        "$value": "#efedd1"
+      },
+      "Yellow": {
+        "$type": "color",
+        "$value": "#fded5d"
+      }
+    },
+    "UI": {
+      "Gray": {
+        "Dark": {
+          "$type": "color",
+          "$value": "#333333"
+        },
+        "Extra Light": {
+          "$type": "color",
+          "$value": "#b2b2b2"
+        },
+        "Light": {
+          "$type": "color",
+          "$value": "#999999"
+        }
+      }
+    }
+  },
+  "Cream": {
+    "$type": "color",
+    "$value": "#fffeed"
+  },
+  "Green": {
+    "$type": "color",
+    "$value": "#24cb71"
+  },
+  "Warm Gray": {
+    "$type": "color",
+    "$value": "#efedd1"
+  },
+  "Yellow": {
+    "$type": "color",
+    "$value": "#d6cf47"
+  },
+  "Yellow2": {
+    "$type": "color",
+    "$value": "#fded5d"
+  }
+}
