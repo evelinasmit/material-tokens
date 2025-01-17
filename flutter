@@ -1,0 +1,16 @@
+
+//
+// 
+//
+
+
+import 'dart:ui';
+
+class  {
+  ._();
+
+    static const d9D9D9 = #AA2D2D;
+    static const textIconsNeutralPrimaryReversed = #FFFFFF;
+    static const textIconsNeutralSecondary = #605F60;
+    static const untitledAFolderAnother1Style = #515656; /* Some color */
+}
